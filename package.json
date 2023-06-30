@@ -1,0 +1,14 @@
+{
+  "name": "playwright-assist",
+  "version": "0.0.1",
+  "description": "Playwright Assist Module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:playwright-assist.git"
+  },
+  "dependencies": {
+    "playwright": "^1.35.1"
+  },
+  "author": "Raghul Raj V",
+  "license": "ISC"
+}
