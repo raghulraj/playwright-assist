@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git@github.com:playwright-assist.git"
   },
+  "publishConfig": {
+     "registry": "https://npm.pkg.github.com"
+   }
   "dependencies": {
     "playwright": "^1.35.1"
   },
